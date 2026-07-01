@@ -1,4 +1,4 @@
-# rag-q_a
+# Retrieval-Augmented Generation (RAG) - Q & A
 Context based q & a from PDF documents
 
 ---
